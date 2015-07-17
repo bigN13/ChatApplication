@@ -1,0 +1,7 @@
+packages/
+ChatApp.Server/obj/
+ChatApp.Library/obj/Debug/ChatApp.Library.csproj.FileListAbsolute.txt
+output/
+ChatApp.Library/bin/
+ChatApp.Client/obj/
+ChatApp.Library/obj/
