@@ -16,3 +16,6 @@ The server is listening for incoming connections.
 The client must know the IP address of the server and which port the server is listening on. 
 The server is listening on port 30,000. 
 The server’s IP address will have to be input manually from the user interface of the client. 
+
+ScreenCast
+http://screencast.com/t/uP94rTP6o
